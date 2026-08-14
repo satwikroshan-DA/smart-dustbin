@@ -1,0 +1,6 @@
+{
+  "name": "Smart City Environmental Logic",
+  "description": "Enterprise IoT environmental intelligence and municipal waste management platform featuring live sensor telemetry, predictive fill-level analytics, automated collection route optimization, and zone logic controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
